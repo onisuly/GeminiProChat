@@ -1,6 +1,6 @@
 .message pre {
   background-color: #64748b10;
-  font-size: 1.2rem;
+  font-size: inherit;
   padding: 0.4rem 1rem;
 }
 
